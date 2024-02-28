@@ -112,7 +112,7 @@ html {
 .wave {
     fill: #000;
     position: absolute;
-    top: 58vh;
+    top: 65vh;
 }
 .wave2 {
     fill: #371b3f;
@@ -122,11 +122,19 @@ html {
 .podvalBG {
     position: absolute;
     top: 289vh;
-    width: 184vh;
-    height: auto;
+    width: 1000px;
+    height: 250px;
     background: #371b3f;
     padding: 40px;
     color: white;
+}
+.podvalBG-2 {
+    background: #371b3f;
+    position: absolute;
+    top: 289vh;
+    width: 1000px;
+    height: 330px;
+    right: 0;
 }
 .iconDevAthhh {
     width: 100px;
